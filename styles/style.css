@@ -1,0 +1,11 @@
+.boxs{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 33%;
+    border: 2px solid blueviolet;
+}
+.box img{
+    width: 100%;
+}
